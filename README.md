@@ -13,7 +13,7 @@ This project implements a **Circular Buffer (Ring Buffer)** data structure in C.
 * **Language:** C
 * **Concepts:** Structs, Pointers, Modulo Arithmetic, Memory Management.
 
-## ðHow to Run
+## How to Run
 1. Compile the code.
 2. Run the executable.
 3. Use the CLI menu:
